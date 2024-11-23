@@ -1,0 +1,9 @@
+[submodule "st_users"]
+	path = st_users
+	url = https://github.com/fridrock/st_users.git
+[submodule "st_test"]
+	path = st_test
+	url = https://github.com/fridrock/st_test.git
+[submodule "st_ui"]
+	path = st_ui
+	url = https://github.com/fridrock/st_ui.git
